@@ -31,8 +31,10 @@
 - 🏛️ **Y4G Fellow** (Youth for Governance), researching civic problems for Mysuru
 - 🌱 **GDG On Campus Organizer**: 20+ events for 800+ students
 - 🎤 Master of Ceremonies, **GraVVIETy** tech fest (2000+ participants)
-- Interned at Infosys Springboard, Deloitte ,Pepscio ,Microsoft Elevate
-- Symbiot Hackathon 2nd Runner up and Google Techsprint Hackathon 1st runner up
+- 🎓Interned at Infosys Springboard, Deloitte ,Pepscio ,Microsoft Elevate
+- 🏆Symbiot Hackathon 2nd Runner up and Google Techsprint Hackathon 1st runner up
+- 🚀 Currently building production-ready software using modern backend technologies and cloud infrastructure.
+-🌱 Currently learning System Design, AWS, Kubernetes, AI Agents, LLM Engineering, and High Performance Backend Systems.
 
 > *"From the dataset to the dashboard."*
 
@@ -111,6 +113,8 @@ Emergency dispatch that routes patients to the *right* hospital, not just the ne
 - ✅ Top 10 ,Hactoberfest Hackathon , WeMakeDev X AWS
 - ✅ Bedrock-based triage and Leaflet map tracking
 
+🔗 [**Live Demo**](https://main.d1r7oebggguoa1.amplifyapp.com/) · [Code](https://github.com/SyedaUmmeHaani23/lifelink-grid)
+
 </td>
 <td width="50%" valign="top">
 
@@ -120,6 +124,8 @@ A vision pipeline for autonomous coconut harvesting, from image capture to infer
 `Python` `YOLOv8` `OpenCV`
 
 - ✅ 92% detection accuracy with YOLOv8
+
+🔗 [**Live Demo**](https://autonomous-coconut-harvester.vercel.app/) · [Code](https://github.com/SyedaUmmeHaani23/AI-powered-Autonomous-Coconut-Harvesting-System)
 
 </td>
 </tr>
@@ -144,6 +150,8 @@ Repository health analyzer. Scan a GitHub URL or folder and get a 0-100 health s
 
 - ✅ Commit-history insights and safe fix previews
 - ✅ Built for students and hackathon teams
+
+🔗 [**Live Demo**](https://catchblock.vercel.app/) · [Code](https://github.com/SyedaUmmeHaani23/Catchblock)
 
 </td>
 </tr>
