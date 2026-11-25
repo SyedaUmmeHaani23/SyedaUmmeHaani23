@@ -213,7 +213,3 @@ IoT bus tracking with live location streams, alerts and route optimization.
 ![snake](https://raw.githubusercontent.com/SyedaUmmeHaani23/SyedaUmmeHaani23/output/github-snake-dark.svg)
 
 </div>
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/SyedaUmmeHaani23/SyedaUmmeHaani23/output/github-snake-dark.svg)
