@@ -31,7 +31,6 @@
 - 🏛️ **Y4G Fellow** (Youth for Governance), researching civic problems for Mysuru
 - 🌱 **GDG On Campus Organizer**: 20+ events for 800+ students
 - 🎤 Master of Ceremonies, **GraVVIETy** tech fest (2000+ participants)
-- 🔬 Granted **Design Patent** and a **published research paper**
 
 > *"From the dataset to the dashboard."*
 
@@ -61,7 +60,7 @@
 **Volume 08, Issue 10 (2026)** · **Certificate Ref:** IRJMETS/Certificate/Volume 08/Issue 10/81000082573
 **DOI:** [10.56726/IRJMETS103815](https://www.doi.org/10.56726/IRJMETS103815)
 
-> TODO: add your paper title here in bold, and a one-line summary of what it covers.
+> An AI Powered Autonomous Coconut Harvesting System.
 
 ---
 
@@ -109,18 +108,17 @@ Emergency dispatch that routes patients to the *right* hospital, not just the ne
 
 `React` `AWS Lambda` `DynamoDB` `Bedrock`
 
-- ✅ Grand Finalist, iQOO Hackathon
+- ✅ Top 10 ,Hactoberfest Hackathon , WeMakeDev X AWS
 - ✅ Bedrock-based triage and Leaflet map tracking
 
 </td>
 <td width="50%" valign="top">
 
-### 🥥 AI Coconut Harvesting System
+### 🥥 AI Powered Autonomous Coconut Harvesting System
 A vision pipeline for autonomous coconut harvesting, from image capture to inference to actuation.
 
 `Python` `YOLOv8` `OpenCV`
 
-- ✅ Design Patent granted
 - ✅ 92% detection accuracy with YOLOv8
 
 </td>
