@@ -1,7 +1,7 @@
 
 # Syeda Umme Haani
 
-### Software Engineer | AI, Data and Cloud | GDG On Campus Organizer
+### Software Engineer | Full Stack Developer | AI, Data and Cloud | GDG On Campus Organizer
 
 *Final-year CS student building user-focused products with AI, data and cloud. Open to full-time roles from April 2027.*
 
