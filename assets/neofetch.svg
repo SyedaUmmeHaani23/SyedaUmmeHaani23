@@ -45,8 +45,9 @@
     <text x="30" y="332" fill="#58a6ff" font-weight="bold">— Highlights</text>
     <line x1="130" y1="328" x2="490" y2="328" stroke="#30363d"/>
 
-    <text x="30" y="358" fill="#c9d1d9"><tspan fill="#3fb950">●</tspan> Design Patent: AI Coconut Harvesting</text>
+    <text x="30" y="358" fill="#c9d1d9"><tspan fill="#3fb950">●</tspan> Symbiot Hackathon 1st runner up</text>
     <text x="30" y="382" fill="#c9d1d9"><tspan fill="#3fb950">●</tspan> GDG On Campus Organizer, VVIET</text>
     <text x="30" y="406" fill="#c9d1d9"><tspan fill="#3fb950">●</tspan> Y4G Fellow (Youth for Governance)</text>
+    <text x="30" y="406" fill="#c9d1d9"><tspan fill="#3fb950">●</tspan> Google Techsprint Hackathon 1st Runner up</text>
   </g>
 </svg>
