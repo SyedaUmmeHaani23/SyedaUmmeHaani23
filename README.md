@@ -5,3 +5,5 @@
 </div>
 
 ## Hi there 👋
+
+<img src="assets/neofetch.svg" width="500"/>
