@@ -114,7 +114,7 @@ Emergency dispatch that routes patients to the *right* hospital, not just the ne
 </td>
 <td width="50%" valign="top">
 
-### 🥥 [AI Powered Autonomous Coconut Harvesting System] (https://github.com/SyedaUmmeHaani23/AI-powered-Autonomous-Coconut-Harvesting-System)
+### 🥥 [AI Powered Autonomous Coconut Harvesting System](https://github.com/SyedaUmmeHaani23/AI-powered-Autonomous-Coconut-Harvesting-System)
 A vision pipeline for autonomous coconut harvesting, from image capture to inference to actuation.
 
 `Python` `YOLOv8` `OpenCV`
@@ -150,7 +150,7 @@ Repository health analyzer. Scan a GitHub URL or folder and get a 0-100 health s
 <tr>
 <td width="50%" valign="top">
 
-### 🆘 SaviorNet (https://github.com/SyedaUmmeHaani23/SaviorNet)
+### 🆘 [SaviorNet](https://github.com/SyedaUmmeHaani23/SaviorNet)
 Real-time disaster coordination that routes rescue teams across multiple concurrent incidents.
 
 `Firebase` `Google Maps API`
