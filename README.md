@@ -31,6 +31,8 @@
 - 🏛️ **Y4G Fellow** (Youth for Governance), researching civic problems for Mysuru
 - 🌱 **GDG On Campus Organizer**: 20+ events for 800+ students
 - 🎤 Master of Ceremonies, **GraVVIETy** tech fest (2000+ participants)
+- Interned at Infosys Springboard, Deloitte ,Pepscio ,Microsoft Elevate
+- Symbiot Hackathon 2nd Runner up and Google Techsprint Hackathon 1st runner up
 
 > *"From the dataset to the dashboard."*
 
