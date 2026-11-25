@@ -43,7 +43,7 @@
 ## 🏅 Achievements
 
 - 🥈 **2nd Runner-Up**: VVCE SymbIoT (SaviorNet)
-- 📄 **Published Research Paper**: IRJMETS, Volume 08, Issue 10 (2026) · [DOI: 10.56726/IRJMETS103815]
+- 📄 **Published Research Paper**: IRJMETS, Volume 08, Issue 10 (2026)
 - 🏆 **Grand Finalist**: iQOO Hackathon (LifeLink Grid)
 - 🥈 **Runner-Up**: Google TechSprint Hackathon (GDG x Hack2skill)
 - ⭐ **Top 6 of 200+ teams**: IoTopia (BusBuddy)
@@ -57,8 +57,7 @@
 
 **Journal:** International Research Journal of Modernization in Engineering Technology and Science (IRJMETS)
 **Volume 08, Issue 10 (2026)** · **Certificate Ref:** IRJMETS/Certificate/Volume 08/Issue 10/81000082573
-**DOI:** [10.56726/IRJMETS103815](https://www.doi.org/10.56726/IRJMETS103815)
-
+**DOI:** [10.56726/IRJMETS103815]
 > An AI Powered Autonomous Coconut Harvesting System.
 
 ---
